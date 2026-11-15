@@ -34,21 +34,21 @@ I'm currently developing my skills in software development, web technologies, an
 ![SQL](https://img.shields.io/badge/SQL-D8B8A5?style=flat-square&logo=mysql&logoColor=white)
 
 
-\
+
 **Currently learning**
+
 ![React](https://img.shields.io/badge/React-E8AFC0?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-D9B9C7?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Backend Development](https://img.shields.io/badge/Backend_Development-D8B8A5?style=flat-square)
-\
+
 
 
 **Tools**
+
 ![Git](https://img.shields.io/badge/Git-E8A08C?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-C7A99B?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-D9B9C7?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-E8AFC0?style=flat-square&logo=figma&logoColor=white)
-
-\
 
 
 ---
@@ -88,7 +88,7 @@ I'm always happy to connect with people who love learning, creating, and explori
 ---
 
 \<p align="center">
-&#x20; \<i>"Little by little, a little becomes a lot."\</i>
+
 &#x20; \<br>\<br>
 &#x20; ♡ Thanks for visiting my corner of GitHub ♡
 \</p>
